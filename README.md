@@ -1,1 +1,1 @@
-This is for practicising php and html
+This is for practising php and html
